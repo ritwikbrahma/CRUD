@@ -1,0 +1,16 @@
+{
+  "name": "myapi",
+  "version": "1.0.0",
+  "description": "my api for tekwiki",
+  "main": "app.js",
+  "scripts": {
+    "test": "yo"
+  },
+  "author": "ritwikbrahma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.9",
+    "nodemon": "^1.17.1"
+  }
+}
